@@ -19,7 +19,7 @@ title = xml_text(xml_find_all(x, "//Item[@Name='Title']"))
 print(paste(journal,"\n",title))
 
 #For checking XML items
-#https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=11914484
+#https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=11914483
 
 #pdb-url
 #https://data.rcsb.org/#rest-api
